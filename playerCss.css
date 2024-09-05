@@ -194,8 +194,8 @@
         }
 
         .plyr__control.plyr__tab-focus {
-            outline-color: #343434;
-            outline-color: var(--plyr-tab-focus-color, var(--plyr-color-main, var(--plyr-color-main, #343434)));
+            outline-color: #BAFF29;
+            outline-color: var(--plyr-tab-focus-color, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)));
             outline-offset: 2px;
             outline-style: dotted;
             outline-width: 3px
@@ -464,8 +464,8 @@
         }
 
         .plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]:before {
-            background: #343434;
-            background: var(--plyr-control-toggle-checked-background, var(--plyr-color-main, var(--plyr-color-main, #343434)))
+            background: #BAFF29;
+            background: var(--plyr-control-toggle-checked-background, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)))
         }
 
         .plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]:after {
@@ -646,8 +646,8 @@
         }
 
         .plyr--full-ui input[type=range].plyr__tab-focus::-moz-range-track {
-            outline-color: #343434;
-            outline-color: var(--plyr-tab-focus-color, var(--plyr-color-main, var(--plyr-color-main, #343434)));
+            outline-color: #BAFF29;
+            outline-color: var(--plyr-tab-focus-color, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)));
             outline-offset: 2px;
             outline-style: dotted;
             outline-width: 3px
