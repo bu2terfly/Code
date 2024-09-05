@@ -496,8 +496,8 @@
             border: 0;
             border-radius: 26px;
             border-radius: calc(var(--plyr-range-thumb-height, 13px)*2);
-            color: #BAFF29;
-            color: var(--plyr-range-fill-background, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)));
+            color: #343434;
+            color: var(--plyr-range-fill-background, var(--plyr-color-main, var(--plyr-color-main, #343434)));
             display: block;
             height: 19px;
             height: calc(var(--plyr-range-thumb-active-shadow-width, 3px)*2 + var(--plyr-range-thumb-height, 13px));
@@ -932,8 +932,8 @@
         .plyr--audio .plyr__control.plyr__tab-focus,
         .plyr--audio .plyr__control:hover,
         .plyr--audio .plyr__control[aria-expanded=true] {
-            background: #BAFF29;
-            background: var(--plyr-audio-control-background-hover, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)));
+            background: #343434;
+            background: var(--plyr-audio-control-background-hover, var(--plyr-color-main, var(--plyr-color-main, #343434)));
             color: #fff;
             color: var(--plyr-audio-control-color-hover, #fff)
         }
