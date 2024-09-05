@@ -1061,8 +1061,8 @@
         .plyr--video .plyr__control.plyr__tab-focus,
         .plyr--video .plyr__control:hover,
         .plyr--video .plyr__control[aria-expanded=true] {
-            background: #BAFF29;
-            background: var(--plyr-video-control-background-hover, var(--plyr-color-main, var(--plyr-color-main, #BAFF29)));
+            background: #343434;
+            background: var(--plyr-video-control-background-hover, var(--plyr-color-main, var(--plyr-color-main, #343434)));
             color: #fff;
             color: var(--plyr-video-control-color-hover, #fff)
         }
